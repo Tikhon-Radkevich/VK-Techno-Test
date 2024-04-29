@@ -5,4 +5,5 @@ venv/
 .venv/
 
 catboost_info/
-data/
+original_data/
+dev/
